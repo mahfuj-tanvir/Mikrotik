@@ -1,4 +1,5 @@
-MikroTik Multi-Department Enterprise Network and PPPoE ISP Simulation
+MikroTik Multi-Department Enterprise Network and PPPoE ISP Simulation.
+
 Designed and implemented a virtual multi-department enterprise network using MikroTik Cloud Hosted Router (CHR) on Microsoft Hyper-V. Integrated Windows Server DNS services and simulated an ISP environment using PPPoE to provide secure Internet connectivity, centralized network services, and bandwidth-managed remote access.
 
 Key Implementation:
